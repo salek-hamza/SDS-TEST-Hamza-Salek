@@ -18,6 +18,6 @@ _Dependencias
 
 El proyecto utiliza las siguientes bibliotecas externas:
 
--JUnit: Utilizado para realizar pruebas unitarias. (Versión 3.8.1)
 -MySQL Connector/J: Proporciona la conectividad JDBC para MySQL. (Versión 8.0.33)
+
 -Gson: Biblioteca de Google para trabajar con JSON en Java. (Versión 2.11.0)
