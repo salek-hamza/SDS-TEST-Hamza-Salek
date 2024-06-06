@@ -8,6 +8,8 @@ Para ejecutar el programa al inicio basta con modificar el archivo de configurac
 
 *java -jar proyecto-proveedores-1.0-SNAPSHOT-jar-with-dependencies.jar <código_del_cliente>*
 
+Esto va a crear una carpeta llamada "output" que contendrá los resultados deseados en formato html y csv.
+
 _**Configuración y Compilación**
 
 Si se decide modificar el código, para ejecutar el programa necesitas colocar el archivo de configuración (config.properties) junto al archivo JAR generado. Puedes encontrar el archivo JAR en la carpeta target después de compilar el proyecto.
