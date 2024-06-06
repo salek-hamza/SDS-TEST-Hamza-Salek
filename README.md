@@ -1,4 +1,4 @@
-                                                           PROYECTO PROVEEDORES
+**PROYECTO PROVEEDORES**
 
 Este es un pequeño programa en Java que se conecta a una base de datos MySQL para obtener información de proveedores y generar un archivo plano con los datos recolectados.
 
